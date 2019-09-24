@@ -1,2 +1,2 @@
-# Homepage
-My very own personal website. Basically this is just a résumé.
+# résumé template 
+The first task solution for [Binary Studio Academy](https://academy.binary-studio.com)
